@@ -1,15 +1,8 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Sobre o autor
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Bacharel em Ciência da Computação pela Universidade Federal de Uberlândia, atua na área de desenvolvimento de software desde 2007. Participa ativamente da comunidade de código aberto, e é criador e mantenedor do projeto [Redstone.dart](http://redstonedart.org), que tem como finalidade facilitar a criação de aplicações web.
